@@ -4,3 +4,10 @@ public class Start {
         game.start();
     }
 }
+
+
+//cell klass med x,y, get x get y
+
+//Spelplan  celler get neighbour
+
+//regler result
